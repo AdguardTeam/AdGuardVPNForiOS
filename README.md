@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<image src="https://cdn.adguard.com/content/github/vpn/ios/vpn_disconnected.png" width="250">  <image src="https://cdn.adguard.com/content/github/vpn/ios/vpn_locations.png" width="250">  <image src="https://cdn.adguard.com/content/github/vpn/ios/vpn_connected.png" width="250">
+<image src="https://cdn.adtidy.org/content/github/vpn/ios/vpn_disconnected.png" width="250">  <image src="https://cdn.adtidy.org/content/github/vpn/ios/vpn_locations.png" width="250">  <image src="https://cdn.adtidy.org/content/github/vpn/ios/vpn_connected.png" width="250">
 </p>
 
 > **Disclaimer**
