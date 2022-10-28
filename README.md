@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<image src="https://user-images.githubusercontent.com/17472907/94018649-8035ad80-fdb9-11ea-86f3-defbdbf23a39.PNG" width="250">  <image src="https://user-images.githubusercontent.com/17472907/94018632-7d3abd00-fdb9-11ea-973f-9febcee3c17e.PNG" width="250">  <image src="https://user-images.githubusercontent.com/17472907/94018652-8166da80-fdb9-11ea-801b-d843f0fac2e2.PNG" width="250">
+<image src="https://cdn.adtidy.org/content/github/vpn/ios/vpn_disconnected.png" width="250">  <image src="https://cdn.adtidy.org/content/github/vpn/ios/vpn_locations.png" width="250">  <image src="https://cdn.adtidy.org/content/github/vpn/ios/vpn_connected.png" width="250">
 </p>
 
 > **Disclaimer**
