@@ -38,4 +38,4 @@ To get more information and to download AdGuard VPN for iOS, visit [our website]
 
 We appreciate your feedback and always welcome both constructive criticism and new ideas.
 
-You can use GitHub to report a bug or to submit a feature request. To do so, go to [this page](https://github.com/AdguardTeam/AdGuardVPNForiOS/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc), click the _New issue_ button and choose between creating a bug report or feature request.
+You can use GitHub to report a bug or to submit a feature request. To do so, go to [this page](https://github.com/AdguardTeam/AdGuardVPNForiOS/issues), click the _New issue_ button and choose between creating a bug report or feature request.
