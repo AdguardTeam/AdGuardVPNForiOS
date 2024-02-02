@@ -85,21 +85,6 @@ body:
     validations:
       required: true
       
-  - type: dropdown
-    id: dns_protocol
-    attributes:
-      label: DNS protocol
-      multiple: false
-      options:
-        - None, AdGuard VPN app works in integrated mode
-        - Regular
-        - DNSCrypt
-        - DNS-over-HTTPS
-        - DNS-over-TLS
-        - DNS-over-QUIC
-    validations:
-      required: true
-      
   - type: textarea
     id: custom_dns
     attributes:
