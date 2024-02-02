@@ -1,6 +1,6 @@
 name: 🐞 Bug report
 description: If you found something that we should know about
-labels: [Bug]
+labels: ["Bug"]
 body:
   - type: markdown
     attributes:
@@ -30,8 +30,8 @@ body:
       label: Environment
       description: |
         Examples:
-          - **OS**: 17
-          - **Device**: iphone 15
+          - **OS**: 17.3
+          - **Device**: iPhone 15
       value: |
           - OS:
           - Device:
@@ -45,7 +45,7 @@ body:
       description:
       multiple: false
       options:
-        - General
+        - VPN
         - Integrated
     validations:
       required: true
@@ -57,6 +57,7 @@ body:
       description: 
       multiple: false
       options:
+        - None, AdGuard VPN app works in integrated mode
         - Regular
         - Selective
     validations:
@@ -90,13 +91,14 @@ body:
       label: DNS protocol
       multiple: false
       options:
+        - None, AdGuard VPN app works in integrated mode
         - Regular
         - DNSCrypt
         - DNS-over-HTTPS
         - DNS-over-TLS
         - DNS-over-QUIC
     validations:
-      required: false
+      required: true
       
   - type: textarea
     id: custom_dns
