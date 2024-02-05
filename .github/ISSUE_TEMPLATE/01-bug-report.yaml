@@ -1,0 +1,153 @@
+name: 🐞 Bug report
+description: If you found something that we should know about
+labels: ["Bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+
+  - type: checkboxes
+    attributes:
+      label: Please answer the following questions for yourself before submitting an issue.
+      options:
+        - label: I checked the [knowledge base](https://adguard-vpn.com/kb/) and found no answer
+          required: true
+        - label: I checked to make sure that this issue has not already been filed
+          required: true
+
+  - type: input
+    id: app_version
+    attributes:
+      label: AdGuard VPN  version
+      description: What version of our application are you running?
+      placeholder: For example, 2.2
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Environment
+      description: |
+        Examples:
+          - **OS**: 17.3
+          - **Device**: iPhone 15
+      value: |
+          - OS:
+          - Device:
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tunnel_mode
+    attributes:
+      label: Operating mode
+      description:
+      multiple: false
+      options:
+        - VPN
+        - Integrated
+    validations:
+      required: true
+
+  - type: dropdown
+    id: exclusions_mode
+    attributes:
+      label: Exclusions mode
+      description: 
+      multiple: false
+      options:
+        - None, AdGuard VPN app works in integrated mode
+        - Regular
+        - Selective
+    validations:
+      required: true
+
+  - type: dropdown
+    id: dns_protection
+    attributes:
+      label: Which DNS server do you use?
+      multiple: false
+      options:
+        - None, AdGuard VPN app works in integrated mode
+        - Default
+        - AdGuard DNS
+        - AdGuard DNS Family Protection
+        - AdGuard DNS Non-filtering
+        - Google DNS
+        - Cloudflare DNS
+        - Cloudflare for Families - Malware and Adult Content
+        - Cloudflare for Families - Malware Blocking
+        - Open DNS
+        - Open DNS with Family Shield
+        - Quad9
+        - Custom DNS
+    validations:
+      required: true
+      
+  - type: textarea
+    id: custom_dns
+    attributes:
+      label: Custom DNS
+      description: Please provide a link to the custom DNS you use
+      placeholder: If you have enabled DNS from the pre-defined list, skip this step.
+    validations:
+      required: false
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Issue Details
+      description: Please provide a set of steps to reproduce the issue
+      placeholder:
+      value: |
+        Steps to reproduce:
+        1.
+        2.
+        3.
+    validations:
+      required: true
+
+  - type: textarea
+    id: how_it_should_be
+    attributes:
+      label: Expected Behavior
+      description:
+      placeholder: A clear and concise description of what you expected to happen.
+    validations:
+      required: false
+
+  - type: textarea
+    id: how_it_is
+    attributes:
+      label: Actual Behavior
+      placeholder: A clear description of what happened instead.
+    validations:
+      required: true
+
+  - type: textarea
+    id: screens
+    attributes:
+      label: Screenshots
+      description: |
+        If applicable add screenshots explaining your problem.
+        You can drag and drop images or paste them from clipboard.
+        Use `<details> </details>` tag to hide screenshots under the spoiler.
+      placeholder: If applicable add screenshots explaining your problem.
+      value: |
+          <details><summary>Screenshot 1</summary>
+
+          <!-- paste screenshot here -->
+
+          </details>
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description:
+      placeholder: Add any other context about the problem here.
+    validations:
+      required: false
