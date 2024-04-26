@@ -17,6 +17,12 @@
     <a href="https://twitter.com/AdGuard">Twitter</a> |
     <a href="https://t.me/adguard_en">Telegram</a>
     <br /><br />
+<a href="https://github.com/AdguardTeam/AdGuardVPNForiOS/releases">
+    <img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardVPNForiOS.svg?label=release" alt="Latest release" />
+</a>
+<a href="https://agrd.io/ios_vpn">
+  <img alt="iTunes App Store" src="https://img.shields.io/itunes/v/1525373602.svg">
+</a>    
 </p>
 
 <p align="center">
