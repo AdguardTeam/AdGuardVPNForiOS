@@ -27,7 +27,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/ios/dark_connected.png?" width="250">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/ios/connected_dark.PNG?" width="250">
     <img src="https://cdn.adtidy.org/content/github/vpn/ios/vpn_connected.png?" width="250">
   </picture>
   <picture>
@@ -35,8 +35,8 @@
     <img src="https://cdn.adtidy.org/content/github/vpn/ios/vpn_locations.png?" width="250">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/ios/dark_exclusions.png" width="250">
-    <img src="https://cdn.adtidy.org/content/github/vpn/ios/vpn_exclusions.png" width="250">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/ios/dark_exclusions_vpn.png" width="250">
+    <img src="https://cdn.adtidy.org/content/github/vpn/ios/exclusions_vpn.png" width="250">
   </picture>
 </p>
 
