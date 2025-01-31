@@ -1,3 +1,4 @@
+&nbsp;
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_dark_i.svg" width="300px" alt="AdGuard VPN for iOS" />
@@ -25,6 +26,13 @@
 </a>    
 </p>
 
+<p align="center">
+  <a href="https://agrd.io/github_ios_vpn">
+    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" height="50" />
+  </a>
+</p>
+
+&nbsp;
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/ios/connected_dark.PNG?" width="250">
