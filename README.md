@@ -18,17 +18,28 @@
     <a href="https://twitter.com/AdGuard">Twitter</a> |
     <a href="https://t.me/adguard_en">Telegram</a>
     <br /><br />
+ <a href="https://github.com/AdguardTeam/AdguardVPNForiOS/issues?q=label%3ABug%20state%3Aopen">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForiOS?color=orangered&label=%F0%9F%90%9B%20Open%20bugs&query=label%3ABug%20state%3Aopen" />
+    </a>
+    <a href="https://github.com/AdguardTeam/AdguardVPNForiOS/issues?q=label%3ABug%20state%3Aclosed%20-label%3ADuplicate%20label%3A%22Resolution%3A%20Fixed%22%2C%22Resolution%3A%20Done%22%20">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForiOS?color=orange&label=Resolved&query=label%3ABug%20state%3Aclosed%20-label%3ADuplicate%20label%3A%22Resolution%3A%20Fixed%22%2C%22Resolution%3A%20Done%22%20" />
+    </a>
+    <br />
+    <a href="https://github.com/AdguardTeam/AdguardVPNForiOS/issues?q=label%3A%22Feature%20request%22%20state%3Aopen+sort%3Areactions-%2B1-desc">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForiOS?color=seagreen&label=%F0%9F%9A%80%20Open%20feature%20requests&query=label%3A%22Feature%20request%22%20state%3Aopen" />
+    </a>
+    <a href="https://github.com/AdguardTeam/AdguardVPNForiOS/issues?q=label%3A%22Feature%20request%22%20state%3Aclosed%20-label%3AQuestion%2CDuplicate%20label%3A%22Resolution%3A%20Done%22%2C%22Resolution%3A%20Fixed%22">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForiOS?color=%2358A459&label=Implemented&query=label%3A%22Feature%20request%22%20state%3Aclosed%20-label%3AQuestion%2CDuplicate%20label%3A%22Resolution%3A%20Done%22%2C%22Resolution%3A%20Fixed%22" />
+    </a>
+    <br />
 <a href="https://github.com/AdguardTeam/AdGuardVPNForiOS/releases">
     <img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardVPNForiOS.svg?label=release" alt="Latest release" />
-</a>
-<a href="https://agrd.io/ios_vpn">
-  <img alt="iTunes App Store" src="https://img.shields.io/itunes/v/1525373602.svg">
-</a>    
+</a>   
 </p>
 
 <p align="center">
   <a href="https://agrd.io/github_ios_vpn">
-    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" height="50" />
+    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" height="48" />
   </a>
 </p>
 
